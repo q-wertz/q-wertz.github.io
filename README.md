@@ -1,6 +1,6 @@
-# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# Personal site based on Jekyll theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
 
-Forked from [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Forked from [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
 
 ## Troubleshooting
