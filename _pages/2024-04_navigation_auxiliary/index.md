@@ -133,6 +133,8 @@ The identifiers are built up by the relevant parameters that differ between the 
 
 ### Individual plots
 
+Below are the individual plots grouped by the type of ground station placement.
+
 #### Ground stations placed in grid
 
 {% tabs grid_placed %}
