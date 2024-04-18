@@ -305,3 +305,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+      toc: true
+      toc_icon: "fas fa-stream"
+      toc_sticky: true
