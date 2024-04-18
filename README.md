@@ -2,6 +2,11 @@
 
 Forked from [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
+## Sources
+
+- [Jekyll documentation](https://jekyllrb.com/docs/)
+- [Minimal Mistakes documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
 
 ## Troubleshooting
 
