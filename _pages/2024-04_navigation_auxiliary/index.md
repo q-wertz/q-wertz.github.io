@@ -126,6 +126,11 @@ The simulations presented in the paper are:
 </tbody>
 </table>
 
+The identifiers are built up by the relevant parameters that differ between the simulations:
+
+{:style="text-align:center;"}
+![Explanation of the simulation identifiers](files/identifier_explanation.svg){: width="250pt" }
+
 ### Individual plots
 
 #### Ground stations placed in grid
