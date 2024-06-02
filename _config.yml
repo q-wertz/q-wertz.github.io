@@ -284,6 +284,10 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  it:
+    output: true
 
 # Defaults
 defaults:
@@ -308,3 +312,11 @@ defaults:
       toc: true
       toc_icon: "fas fa-stream"
       toc_sticky: true
+  # _it
+  - scope:
+      path: ""
+      type: it
+    values:
+      layout: single
+      author_profile: false
+      share: false
