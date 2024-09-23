@@ -18,7 +18,7 @@ To give better insights into the performance of the system, the horizontal and v
 - 3km, which is in the range of the beginning of approach to land
 - 10km to represent typical cruise altitudes.
 
-The signal range was set to 220km just like in the simulations and signal loss due to horizon culling was taken into account. The DOP values have been derived from the observation model matrix $H$ of a single aircraft and the time difference of arrival (TDOA) observations.
+The signal range was set to 220km just like in the simulations and signal loss due to horizon culling was taken into account. The DOP values have been derived from the observation model matrix $$\bm{H}$$ of a single aircraft and the time difference of arrival (TDOA) observations.
 
 From the plots where the ground stations are placed in the largest cities one can observe that there are areas without coverage.
 
