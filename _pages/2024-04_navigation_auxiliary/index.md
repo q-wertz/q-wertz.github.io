@@ -12,6 +12,69 @@ This page contains some auxiliary information on the paper
 
 As quite a lot of figures have been produced that break the frame of the paper but still contain useful insights they are given here.
 
+## Dilution of precision analysis
+
+To give better insights into the performance of the system, the horizontal and vertical diution of precision (DOP) values are displayed for the different ground station placement types below. We decided to depict the DOP values at altitudes of
+- 3km, which is in the range of the beginning of approach to land
+- 10km to represent typical cruise altitudes.
+
+The signal range was set to 220km just like in the simulations and signal loss due to horizon culling was taken into account. The DOP values have been derived from the observation model matrix $H$ of a single aircraft and the time difference of arrival (TDOA) observations.
+
+From the plots where the ground stations are placed in the largest cities one can observe that there are areas without coverage.
+
+{% tabs dop %}
+
+{% tab dop Grid placed 120km %}
+  3km altitude:
+
+  {:style="text-align:center;"}
+  ![DOP at 3km altitude - Grid placed 120km](files/T_G42-S/dop_spatial_3000m.svg){: width="80%" }
+
+  10km altitude:
+
+  {:style="text-align:center;"}
+  ![DOP at 10km altitude - Grid placed 120km](files/T_G42-S/dop_spatial_10000m.svg){: width="80%" }
+{% endtab %}
+
+{% tab dop Grid placed 100km %}
+  3km altitude:
+
+  {:style="text-align:center;"}
+  ![DOP at 3km altitude - Grid placed 100km](files/T_G56-S/dop_spatial_3000m.svg){: width="80%" }
+
+  10km altitude:
+
+  {:style="text-align:center;"}
+  ![DOP at 10km altitude - Grid placed 100km](files/T_G56-S/dop_spatial_10000m.svg){: width="80%" }
+{% endtab %}
+
+{% tab dop 40 largest cities %}
+  3km altitude:
+
+  {:style="text-align:center;"}
+  ![DOP at 3km altitude - 40 largest cities](files/T_C40-S/dop_spatial_3000m.svg){: width="80%" }
+
+  10km altitude:
+
+  {:style="text-align:center;"}
+  ![DOP at 10km altitude - 40 largest cities](files/T_C40-S/dop_spatial_10000m.svg){: width="80%" }
+{% endtab %}
+
+{% tab dop 60 largest cities %}
+  3km altitude:
+
+  {:style="text-align:center;"}
+  ![DOP at 3km altitude - 60 largest cities](files/T_C60-S/dop_spatial_3000m.svg){: width="80%" }
+
+  10km altitude:
+
+  {:style="text-align:center;"}
+  ![DOP at 10km altitude - 60 largest cities](files/T_C60-S/dop_spatial_10000m.svg){: width="80%" }
+{% endtab %}
+{% endtabs %}
+
+
+
 ## Simulations
 
 ### Overview 
