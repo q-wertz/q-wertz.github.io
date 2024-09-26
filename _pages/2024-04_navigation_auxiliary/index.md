@@ -8,7 +8,7 @@ author_profile: false
 
 This page contains some auxiliary information on the paper 
 
-> Sonnleitner, C., Hobiger, T. Wide-area multilateration airspace surveillance with unsynchronized low-cost ADS-B receivers using TDOA observations. *NAVIGATION*.
+> Sonnleitner, C., & Hobiger, T. (n.d.). Wide-area multilateration airspace surveillance with unsynchronized low-cost ADS-B receivers using TDOA observations. *NAVIGATION: Journal of the Institute of Navigation*.
 
 As quite a lot of figures have been produced that break the frame of the paper but still contain useful insights they are given here.
 
